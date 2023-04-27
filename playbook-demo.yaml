@@ -1,6 +1,6 @@
 ---
 - name: This playbook will create the users
-  hosts: dev
+  hosts: groupall
   become: yes
   #gather_facts: yes
   vars:
