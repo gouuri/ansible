@@ -1,9 +1,9 @@
 [group1]
-client-1 ansible-host=54.234.109.156 ansible_connection=ssh ansbile_user=ec2-user
-client-2 ansible-host=3.89.30.66 ansible_connection=ssh ansbile_user=ec2-user
+client-1 ansible-host=54.234.16.202 ansible_connection=ssh ansbile_user=ec2-user
+client-2 ansible-host=174.129.68.38 ansible_connection=ssh ansbile_user=ec2-user
 [group2]
-client-3 ansible-host=3.88.179.23 ansible_connection=ssh ansbile_user=ec2-user
+client-3 ansible-host=34.204.9.46 ansible_connection=ssh ansbile_user=ec2-user
 [groupall]
-client-1 ansible-host=54.234.109.156 ansible_connection=ssh ansbile_user=ec2-user
-client-2 ansible-host=3.89.30.66 ansible_connection=ssh ansbile_user=ec2-user
-client-3 ansible-host=3.88.179.23 ansible_connection=ssh ansbile_user=ec2-user
+client-1 ansible-host=54.234.16.202 ansible_connection=ssh ansbile_user=ec2-user
+client-2 ansible-host=174.129.68.38 ansible_connection=ssh ansbile_user=ec2-user
+client-3 ansible-host=34.204.9.46 ansible_connection=ssh ansbile_user=ec2-user
